@@ -5,3 +5,5 @@ atividade 6 :
 
 desafio 2 
 atividade 3: o Gap serve para espaçar elementos entre si porem so funciona com display Flex,o justify-content e align-itens tem a mesma funçao porem o justify alinha em horizontal e o align alinha em vertical
+
+atividade 4:a cor aplicada será o verde do Id pois o id eo class entram em conflito mais Id ganha devido especifidade
